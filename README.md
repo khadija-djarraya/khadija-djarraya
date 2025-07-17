@@ -1,24 +1,23 @@
 ## Hi there 👋
-🌱 I'm Khadija Djarraya
-✨ A Tunisian Software Engineer passionate about developing user-centric web applications. 
-💬 Ask me about **Node.js, React, Cloud/Fog computing...or anything [here](https://github.com/khadija-djarraya/khadija-djarraya/issues)**
+I'm Khadija Djarraya
 
+🌍 Tunisian software engineer — born in Saudi Arabia, shaped by Tunisia, and now based in Bahrain.
+
+💻 I build clean, user-focused web-apps and enjoy exploring Cloud, Fog computing, and IoT (shoutout to **iFogSim**!).
+
+🌱 I care deeply about accessibility, clean UX, and writing code that makes sense, not just to machines, but to people too.
 
 <br>
-
 <div align="center">
-  <a href="kdjarraya@yahoo.com">
-    <img src="https://img.shields.io/badge/EMAIL-blue" />
+  <a href="mailto:kdjarraya@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/khadija-djarraya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@khadija-djarraya" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a> -->
 </div>
 
 <hr>
