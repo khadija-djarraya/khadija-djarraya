@@ -3,7 +3,7 @@ I'm Khadija Djarraya
 
 🌍 Tunisian software engineer — born in Saudi Arabia, shaped by Tunisia, and now based in Bahrain.
 
-💻 I build clean, user-focused web-apps and enjoy exploring Cloud, Fog computing, and IoT (shoutout to **iFogSim**!).
+💻 I build user-focused web-apps and enjoy exploring Cloud, Fog computing, and IoT (shoutout to **iFogSim**!).
 
 🌱 I care deeply about accessibility, clean UX, and writing code that makes sense, not just to machines, but to people too.
 
